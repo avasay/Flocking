@@ -1,3 +1,9 @@
+/*
+* Author: Alejandrio Vasay
+* Course: Physically-Based Simulation and Modeling
+* Program: This OpenGL application simulates flocking and prey-predator
+*	       relationship.
+*/
 #include "cs649.h"
 
 #include <sstream> 
